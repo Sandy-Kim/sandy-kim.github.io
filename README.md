@@ -1,1 +1,0 @@
-# sandy-kim.github.io
