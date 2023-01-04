@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://sandy-kim.github.io/'
 
 github:
   username: sandy-kim             # change to your github username
@@ -35,7 +35,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: sandy
+  name: Sandy Kim
   email: water15951@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
